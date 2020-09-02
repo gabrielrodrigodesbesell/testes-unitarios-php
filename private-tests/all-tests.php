@@ -1,5 +1,5 @@
 <?php
-require 'simpletest-1.2.0/autorun.php';
+require '../simpletest-1.2.0/autorun.php';
 
 class AllTest extends TestSuite{
 

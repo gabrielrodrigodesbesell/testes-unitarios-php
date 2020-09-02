@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6eaaea4-1bc5-4d23-b5b5-191a05dee87b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/simpletest-1.2.0/test/browser_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest-1.2.0/test/browser_test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpletest-1.2.0/test/form_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest-1.2.0/test/form_test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpletest-1.2.0/test/visual_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest-1.2.0/test/visual_test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simpletest-1.2.0/test/web_tester_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest-1.2.0/test/web_tester_test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sistema/Contato.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all-tests.php" beforeDir="false" afterPath="$PROJECT_DIR$/private-tests/all-tests.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste01.php" beforeDir="false" afterPath="$PROJECT_DIR$/private-tests/teste01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste02.php" beforeDir="false" afterPath="$PROJECT_DIR$/private-tests/teste02.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\testes\private-tests" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\testes" />
     </key>
@@ -66,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598485051836</updated>
       <workItem from="1598485055375" duration="5661000" />
-      <workItem from="1599069588711" duration="6675000" />
+      <workItem from="1599069588711" duration="11230000" />
     </task>
     <servers />
   </component>
@@ -85,14 +89,18 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="272" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599087790623">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="272" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1024.728@0.0.1024.728" timestamp="1599087790623" />
     <state x="92" y="92" width="840" height="544" maximized="true" key="DiffContextDialog" timestamp="1598486224674">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
     <state x="92" y="92" width="840" height="544" maximized="true" key="DiffContextDialog/0.0.1024.728@0.0.1024.728" timestamp="1598486224674" />
-    <state x="462" y="295" key="NewPhpFileDialog" timestamp="1599074641865">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="346" y="295" key="NewPhpFileDialog" timestamp="1599086566146">
+      <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="346" y="295" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1598489138002" />
+    <state x="346" y="295" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1599086566146" />
     <state x="462" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599074641865" />
     <state x="15" y="10" key="SettingsEditor" timestamp="1599084578325">
       <screen x="0" y="0" width="1024" height="728" />
@@ -103,9 +111,9 @@
     </state>
     <state x="221" y="115" width="581" height="498" key="find.popup/0.0.1024.728@0.0.1024.728" timestamp="1598485240901" />
     <state x="295" y="115" width="776" height="498" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599076019639" />
-    <state x="168" y="162" key="run.anything.popup" timestamp="1599084516839">
+    <state x="168" y="162" key="run.anything.popup" timestamp="1599088999127">
       <screen x="0" y="0" width="1024" height="728" />
     </state>
-    <state x="168" y="162" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1599084516839" />
+    <state x="168" y="162" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1599088999127" />
   </component>
 </project>
