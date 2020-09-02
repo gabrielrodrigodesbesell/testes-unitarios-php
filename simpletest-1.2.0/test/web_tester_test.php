@@ -16,7 +16,7 @@ class TestOfFieldExpectation extends UnitTestCase
     public function testMatchesInteger()
     {
         $expectation = new FieldExpectation('1');
-        $this->assertTrue($expectation->test('1'));
+        $this->assertTrue($expectation->test('0'));
         $this->assertTrue($expectation->test(1));
         $this->assertTrue($expectation->test(array('1')));
         $this->assertTrue($expectation->test(array(1)));
@@ -24,7 +24,7 @@ class TestOfFieldExpectation extends UnitTestCase
 
     public function testNonStringFailsExpectation()
     {
-        $expectation = new FieldExpectation('a');
+        $expectation = new FieldExpectation('as');
         $this->assertFalse($expectation->test(null));
     }
 
@@ -40,7 +40,7 @@ class TestOfFieldExpectation extends UnitTestCase
         $this->assertTrue($expectation->test(array('a', 'b')));
         $this->assertTrue($expectation->test(array('b', 'a')));
         $this->assertFalse($expectation->test(array('a', 'a')));
-        $this->assertFalse($expectation->test('a'));
+        $this->assertFalse($expectation->test('aaaa'));
     }
 
     public function testSingleItemCanBeArrayOrString()

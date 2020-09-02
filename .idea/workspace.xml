@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6eaaea4-1bc5-4d23-b5b5-191a05dee87b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/simpletest-1.2.0/test/browser_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest-1.2.0/test/browser_test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpletest-1.2.0/test/form_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest-1.2.0/test/form_test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpletest-1.2.0/test/visual_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest-1.2.0/test/visual_test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simpletest-1.2.0/test/web_tester_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/simpletest-1.2.0/test/web_tester_test.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/simpletest-1.2.0/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gepk3RNqbBowb4JkY8WHycHkCP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\testes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6eaaea4-1bc5-4d23-b5b5-191a05dee87b" name="Default Changelist" comment="" />
+      <created>1598485051836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598485051836</updated>
+      <workItem from="1598485055375" duration="5661000" />
+      <workItem from="1599069588711" duration="6675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="840" height="544" maximized="true" key="DiffContextDialog" timestamp="1598486224674">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="92" y="92" width="840" height="544" maximized="true" key="DiffContextDialog/0.0.1024.728@0.0.1024.728" timestamp="1598486224674" />
+    <state x="462" y="295" key="NewPhpFileDialog" timestamp="1599074641865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="295" key="NewPhpFileDialog/0.0.1024.728@0.0.1024.728" timestamp="1598489138002" />
+    <state x="462" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599074641865" />
+    <state x="15" y="10" key="SettingsEditor" timestamp="1599084578325">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="15" y="10" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1599084578325" />
+    <state x="295" y="115" width="776" height="498" key="find.popup" timestamp="1599076019639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="221" y="115" width="581" height="498" key="find.popup/0.0.1024.728@0.0.1024.728" timestamp="1598485240901" />
+    <state x="295" y="115" width="776" height="498" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599076019639" />
+    <state x="168" y="162" key="run.anything.popup" timestamp="1599084516839">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="168" y="162" key="run.anything.popup/0.0.1024.728@0.0.1024.728" timestamp="1599084516839" />
+  </component>
+</project>

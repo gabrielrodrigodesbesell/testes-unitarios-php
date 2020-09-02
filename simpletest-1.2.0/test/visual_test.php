@@ -53,6 +53,7 @@ class PassingUnitTestCaseOutput extends UnitTestCase
     {
         $this->assertNull(null, '%s -> Pass');
         $this->assertNotNull(false, '%s -> Pass');
+
     }
 
     public function testType()
@@ -91,7 +92,7 @@ class PassingUnitTestCaseOutput extends UnitTestCase
 
     public function testWithin()
     {
-        $this->assertWithinMargin(5, 5.4, 0.5, '%s -> Pass');
+        $this->assertWithinMargin(5, 5, 0, '%s -> Pass');
     }
 
     public function testOutside()
@@ -111,6 +112,7 @@ class PassingUnitTestCaseOutput extends UnitTestCase
         $a = '0';
         $b = 0;
         $this->assertNotIdentical($a, $b, '%s -> Pass');
+
     }
 
     public function testNullIdentity()

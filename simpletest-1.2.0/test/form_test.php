@@ -21,11 +21,12 @@ class TestOfForm extends UnitTestCase
 
     public function testFormAttributes()
     {
-        $tag  = new SimpleFormTag(array('method' => 'GET', 'action' => 'here.php', 'id' => '3q3'));
+        $tag  = new SimpleFormTag(array('method' => 'POST', 'action' => 'here.php', 'id' => '3q3'));
         $form = new SimpleForm($tag, $this->page('http://host/a/index.html'));
         $this->assertEqual($form->getMethod(), 'get');
         $this->assertIdentical($form->getId(), '33');
         $this->assertNull($form->getValue(new SelectByName('a')));
+
     }
 
     public function testAction()

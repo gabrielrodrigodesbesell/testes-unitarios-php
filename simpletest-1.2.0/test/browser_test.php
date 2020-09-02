@@ -27,6 +27,7 @@ class TestOfHistory extends UnitTestCase
         $history = new SimpleBrowserHistory();
         $this->assertIdentical($history->getUrl(), false);
         $this->assertIdentical($history->getParameters(), false);
+
     }
 
     public function testCannotMoveInEmptyHistory()
